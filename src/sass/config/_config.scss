@@ -1,0 +1,36 @@
+// Brand colours.
+// --------------
+$brand-colour-1: #334c89;
+$brand-colour-2: #909d31;
+// Greyscale going from light to dark.
+// ----------------------------------
+$greyscale-1: #fafafa;
+$greyscale-2: #dddddd;
+$greyscale-3: #b3b3b3;
+$greyscale-4: #858585;
+$greyscale-5: #282828;
+// Font colours.
+// -------------
+$primary-font-colour: $greyscale-5;
+$primay-link-colour: $greyscale-5;
+
+// Font import from Google Fonts
+// -----------------------------
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,500');
+
+// Font family.
+//-------------
+$font-family--primary: 'Montserrat', 'Helvetica Neue', Helvetica, sans-serif;
+$font-family--secondary: 'Helvetica Neue', Helvetica, sans-serif;
+// Font sizes.
+// -----------
+$font-size: 16px;
+$font-size--small: 14px;
+$font-size--large: 20px;
+// Font weights
+// ------------
+$font-weight--light: 300;
+$font-weight--medium: 500;
+// Font line heights
+// -----------------
+$line-height: 1.5;

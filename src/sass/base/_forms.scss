@@ -1,0 +1,14 @@
+input,
+button {
+  width: 100%;
+  font-size: $font-size--small;
+  height: 40px;
+  border: 1px solid $greyscale-2;
+  line-height: 20px;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+label {
+  font-size: $font-size--small;
+  font-weight: $font-weight--light;
+}

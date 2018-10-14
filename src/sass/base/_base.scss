@@ -1,0 +1,25 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-size: $font-size;
+  line-height: $line-height;
+  font-family: $font-family--primary
+}
+main {
+  max-width: 340px;
+  margin: 3rem auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+a {
+  font-size: $font-size--small;
+  color: $primay-link-colour;
+  font-weight: $font-weight--light;
+}
