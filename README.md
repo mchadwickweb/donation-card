@@ -1,6 +1,6 @@
 # Donation Card
 
-This donation card is built using HTML, CSS and Javascript. It pulls the data from the external API via the Promise based HTTP client Axios and Webpack as the asset bundler.
+This donation card is built using HTML, SCSS and Javascript. It pulls the data from the external API via the Promise based HTTP client Axios and Webpack as the asset bundler.
 
 ## How to preview.
 The 3 files required to view the component are within the /dist folder. Simply dragging the index.html file will get the component into a browser.
